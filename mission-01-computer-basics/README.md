@@ -45,3 +45,18 @@ Software refers to programs and instructions that tell the computer what to do.
 ### My Understanding
 
 Hardware is the physical part of a computer, while software provides instructions to make the hardware work. Both are necessary for a computer to perform tasks.
+
+
+## Task 1.3 – Computer Systems Around You
+
+A computer-based system uses hardware and software to perform a specific task.
+
+| System | Main Purpose | One Input | One Output |
+|---|---|---|---|
+| ATM | To withdraw cash and check bank balance. | PIN entered by the user. | Cash dispensed. |
+| Traffic Signal | To control traffic movement. | Timer or vehicle sensor. | Red, yellow or green light. |
+| Ticket Machine | To provide tickets for travel. | Destination selected by the user. | Printed ticket. |
+
+### My Understanding
+
+Computer-based systems are used in everyday life to make tasks easier and faster. They receive input, process information and produce output. They are useful in banking, traffic management and ticket booking.
