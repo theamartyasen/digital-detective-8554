@@ -1,0 +1,4 @@
+Enter a decimal number: Decimal: 25
+Binary: 0b11001
+Octal: 0o31
+Hexadecimal: 0x19
