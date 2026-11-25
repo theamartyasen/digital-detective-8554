@@ -46,3 +46,8 @@ I cancelled the incomplete command and used a corrected single-line command to c
 
 To be updated after the initial Git commit and push.
 
+
+Commit hash: 6d9a148
+Commit message: Initial commit: Mission 0 setup
+Branch: main
+Repository: https://github.com/theamartyasen/digital-detective-8554
